@@ -2,7 +2,7 @@
 
 A simple **Memory Card Matching Game** built using **HTML, CSS, and JavaScript**. The goal is to match all pairs of cards in the least number of moves.  
 
-![Memory Card Game Preview](https://via.placeholder.com/800x400) <!-- Replace with actual screenshot -->
+![Memory Card Game Preview]([https://via.placeholder.com/800x400](https://abdlsamad.github.io/Card-game/)) <!-- Replace with actual screenshot -->
 
 ---
 
